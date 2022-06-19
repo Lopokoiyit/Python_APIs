@@ -128,6 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 # API
-ipython_config
-.config.py
-C:\Users\user\Desktop\Python_APIs\config.py
+/config.local
